@@ -1,7 +1,7 @@
 pkgname=falkon
 pkgver=3.0.1
 pkgrel=0
-pkgdesc="A KDE-based web browser using QtWebEngine rendering engine"
+pkgdesc="Cross-platform web browser using QtWebEngine rendering engine"
 url="https://www.falkon.org/"
 arch="all"
 license="GPL-3.0-or-later"
